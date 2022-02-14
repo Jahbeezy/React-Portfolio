@@ -8,7 +8,7 @@ export default function Footer(){
             <a href= "https://github.com/Jahbeezy" className='link p-2' target="_blank" > 
             GitHub
             </a>
-            <a href= "https://github.com/Jahbeezy" className='link p-2' target="_blank" > 
+            <a href= "https://www.linkedin.com/in/justin-barner-592229106/" className='link p-2' target="_blank" > 
             LinkedIn
             </a>
         </div>

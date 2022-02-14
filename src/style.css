@@ -77,6 +77,11 @@ a {
     border-radius: .5rem;
 }
 
+.sizing{
+    width: 600px;
+    border: 1px solid black;
+}
+
 .fader {
     animation: fadeIn 200ms;
   }
